@@ -1,21 +1,10 @@
-# Hey everyone, I'm Khurram
-I'm a 21 year old Software Engineering student @ Florida Institute of Technology  
-I'm interested in IoT, Agentic AI, and Robotics  
-Currently learning - Google ADK, AWS, Web Dev  
+# Hey, I'm Khurram
+Masters student intersted in robotics and embedded systems.
+M.S. Electrical Engineering @ Boston University
+B.S. Software Engineering @ Florida Institute of Technology  
 
-###
-### 🧪 Languages:
-<img src="https://img.shields.io/badge/C%2B%2B-darkblue?logo=C%2B%2B" height=30> <img alt="Static Badge" src="https://img.shields.io/badge/Arduino-teal?logo=Arduino" height=30> <img alt="Static Badge" src="https://img.shields.io/badge/Python-lightgreen?logo=Python" height=30>
-<img alt="Static Badge" src="https://img.shields.io/badge/Java-orange?logo=openjdk" height = 30>
- <img alt="Static Badge" src="https://img.shields.io/badge/HTML-white?logo=html5" height=30>
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-lightblue?logo=css3" height=30> <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-grey?logo=flutter" height=30>  
+I like projects that connects the real world with software
 
-
-
-### Tools:
-
-<img alt="Static Badge" src="https://img.shields.io/badge/AWS-red?logo=amazon%20web%20services" height = 30> <img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-skyblue?logo=visual%20studio%20code" height = 30> <img alt="Static Badge" src="https://img.shields.io/badge/Github-gray?logo=github" height = 30> 
-
-
-
-
+## Links
+Portfolio - https://khvrram.dev/
+LinkedIn - https://www.linkedin.com/in/khurram-valiyev/
