@@ -1,7 +1,7 @@
 # Hey, I'm Khurram
 Masters student intersted in robotics and embedded systems.
 
-M.S. Electrical Engineering @ Boston University
+Incoming M.S. Electrical Engineering @ Boston University
 
 B.S. Software Engineering @ Florida Institute of Technology  
 
